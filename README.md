@@ -11,3 +11,10 @@ R - Reset the level <br />
 Q - Quit <br />
 
 Have fun!
+
+
+Build: <br />
+mvn compile <br />
+
+Run: <br />
+mvn exec:java <br />
